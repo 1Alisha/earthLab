@@ -1,0 +1,4 @@
+Fork and commit
+When a repo is forked an exact copy of the repo is made in user's account.
+Once a copy is created in user's account, he/she owns it.
+Thus user can freely modify it as heshe wishes..
